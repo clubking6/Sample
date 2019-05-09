@@ -1,0 +1,27 @@
+@charset "utf-8";
+.row .col-lg-2 .sidebar {
+	border: 1px solid #E7E7E7;
+	background-color: #E7E7E7;
+}
+.sidebar .sidebar-search {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#aboutme   {
+	background-color: #31384a;
+	color: #FFFFFF;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+#aboutme .col-lg-2.col-xs-12 img {
+	margin-right: auto;
+	margin-left: auto;
+}
+#lastdata {
+	height: 100px;
+	background-color: #B4B4B4;
+	padding-top: 10px;
+}
